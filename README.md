@@ -9,7 +9,7 @@ https://twitter.com/cvrgem
 
 # Le scrappeur de Crypto : 
 
-#####(En construction, manque mise en page mais tu peux voir le resultat en VR)
+#####(lol)
 
 https://tranquil-meadow-43440.herokuapp.com
 
