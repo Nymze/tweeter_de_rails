@@ -9,7 +9,9 @@ https://twitter.com/cvrgem
 
 # Le scrappeur de Crypto : 
 
-#####(lol)
+(un peu long à charger)
+
+https://github.com/Nymze/cryptos
 
 https://tranquil-meadow-43440.herokuapp.com
 
